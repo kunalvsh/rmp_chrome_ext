@@ -1,0 +1,11 @@
+{
+  "name": "Rate My Professor USC",
+  "description": "VERY basic version",
+  "version": "0.0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}

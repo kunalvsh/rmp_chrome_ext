@@ -3,6 +3,9 @@
   "description": "VERY basic version",
   "version": "0.0.1",
   "permissions": ["contextMenus"],
+  "icons": {
+    "16": "img/favicon.png"
+  },
   "background": {
     "persistent": false,
     "scripts": ["background.js"]

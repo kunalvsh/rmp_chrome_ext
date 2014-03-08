@@ -8,6 +8,6 @@ Right now, highlight the professor's last name and right click the highlighted t
 
 ##To-Do
 
-+Add functionality to go directly to professor's page rather than search page
-+Add functionality for error popup if professor does not exist
-+Add functionality for other schools
++ Add functionality to go directly to professor's page rather than search page
++ Add functionality for error popup if professor does not exist
++ Add functionality for other schools
